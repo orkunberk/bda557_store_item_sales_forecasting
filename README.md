@@ -4,7 +4,7 @@
 
 In this notebook, a multi-store, multi-item sales forecasting model is built with a sample data using scikit-learn API's random forest regressor.
 
-Running, the below command from `python` or terminal 
+Running, the below command from `python` or terminal (git bash, cmd, power shell, ...)
 ```
 !git clone https://github.com/orkunberk/bda557_store_item_sales_forecasting
 ```
